@@ -4,7 +4,7 @@
 
 **Student ID:** 000755771
 
-**Link to Repo**:https://github.com/swappnasama/dsgn270.git
+**Link to Repo**: https://github.com/swappnasama/dsgn270.git
 
 **References:** 
   - squarespace.com
