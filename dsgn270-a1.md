@@ -17,7 +17,7 @@ Squarespace follows the following web conventions.
 
   1. **Logo placement:** 
 
-    -	Logo is placed on the left side of the page.
+    - Logo is placed on the left side of the page.
     - It is placed highest upon the page across the platform.
     - Logo is always linked to home page.
 
