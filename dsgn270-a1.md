@@ -15,16 +15,15 @@ Content on the website is readable as it follows the contrast background concept
 
 Squarespace follows the following web conventions.
 
-  1. **Logo placement:** 
+  1. **Logo placement:**
 
-    - Logo is placed on the left side of the page.
-    - It is placed highest upon the page across the platform.
-    - Logo is always linked to home page.
+      - Logo is placed on the left side of the page.
+      - It is placed highest upon the page across the platform.
+      - Logo is always linked to home page.
 
   2. **Main Navigation:**
-
-    - Navigation is made easy to user by placing the main navigation on top of the page.
-    - By restricting the main menu to 3 pages, they are simplifying the user experience from being overwhelmed with content and helping them navigate for more easily.
+      - Navigation is made easy to user by placing the main navigation on top of the page.
+      - By restricting the main menu to 3 pages, they are simplifying the user experience from being overwhelmed with content and helping them navigate for more easily.
 
   3. **Content Hierarchy and Colors:**
 
